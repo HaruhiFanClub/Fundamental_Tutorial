@@ -19,5 +19,5 @@
       - 章节名称.assets/所用图片...
       - 章节名称.pdf
     - Fundamental_Tutorial/章节名称.pdf
-  - 在Typora的偏好设置中可以设置`复制图片到./${filename}.assets文件夹`
+  - 在Typora的偏好设置中可以设置`复制图片到./${filename}.assets文件夹`并勾选**优先使用相对路径**
   - 定稿后，请在当前章节的目录下发布一份导出的pdf，并在`Fundamental_Tutorial`的根目录下复制一份 `0x00_章节名称.pdf`
